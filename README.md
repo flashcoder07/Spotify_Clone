@@ -17,7 +17,6 @@ Firebase Authentication
 Firebase Realtime Database
 Spotify Web API (for fetching music data)
 Installation
-Clone the repository: git clone https://github.com/your-username/spotify-clone.git
 Open the project in Android Studio.
 Connect your Firebase project by following the Firebase setup instructions.
 Build and run the project on an Android device or emulator.
@@ -30,9 +29,3 @@ Play songs by clicking on them in the playlist.
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
-Credits
-Developed by Your Name
-Spotify logo by Spotify
